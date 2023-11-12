@@ -2,16 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Physics, University of Konstanz</a> P-building, Room P702
+subtitle:  <strong> W2 Interim Professor (Vertretungsprofessur) </strong>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room P702</p>
-    <p>Universitätsstraße 10</p>
-    <p>Konstanz, Germany</p>
+    <div style="text-align: right;">
+      <p><strong>W2 Interim Professor</strong><br/>
+         Dept. of Physics,</p>
+          <p>Univ. of Konstanz, P702</p>
+      <p>Universitätsstr. 10<br/>
+         Konstanz, Germany</p>
+    </div>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,12 +23,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Theoretical Quantum Physicist specialized in nanoscale light, sound, and matter interactions.
+<p><strong>Theoretical Quantum Physicist</strong> specialized in nanoscale light, sound, and matter interactions. I am currently serving as a <strong>W2 Interim Professor</strong> at the University of Konstanz, Germany.</p>
 
-I am currently serving as a W2 Interim Professor at the University of Konstanz, Germany.
+<p>I have had the opportunity to delve into both classical and quantum many-body systems. My journey in this field has been enriched by a strong foundation in <em>analytical skills</em> and <em>computational modeling</em>.</p>
 
-I have had the opportunity to delve into both classical and quantum many-body systems. My journey in this field has been enriched by a strong foundation in analytical skills and computational modeling. 
+<p>I am grateful for the learning experiences provided by the <strong>ETH Postdoctoral Fellowship</strong>, which supported some of my work and fostered valuable collaborations with experimental teams.</p>
 
-I am grateful for the learning experiences provided by the ETH Postdoctoral Fellowship, which supported some of my work and fostered valuable collaborations with experimental teams.
-
- My postdoctoral stint at the Photonic Forces experimental group at AMOLF, Amsterdam, allowed me to explore new realms in topological and nano-optomechanical networks. My Ph.D. research at UAM, Madrid, where I studied strong coupling between light and organic molecules.
+<p>My postdoctoral stint at the <em>Photonic Forces experimental group</em> at AMOLF, Amsterdam, allowed me to explore new realms in topological and nano-optomechanical networks. My Ph.D. research at UAM, Madrid, focused on studying strong coupling between light and organic molecules.</p>
