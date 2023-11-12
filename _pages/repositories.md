@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Previously I co-developed HarmonicBalance.jl is a Julia package for solving nonlinear differential equations using the method of harmonic balance.
 nav: true
 nav_order: 3
