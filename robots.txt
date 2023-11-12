@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jdelpino.github.io/jdelpino.github.io//sitemap.xml
+Sitemap: https://jdelpino.github.io/sitemap.xml
