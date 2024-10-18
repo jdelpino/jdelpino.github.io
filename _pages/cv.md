@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Curriculum Vitae
 nav: true
 nav_order: 4
 cv_pdf: CV_JdP.pdf
-description: Curriculum Vitae
+description: Summary
 toc:
   sidebar: left
 ---

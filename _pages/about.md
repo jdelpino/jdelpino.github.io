@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  <strong> W2 Interim Professor (Vertretungsprofessur) </strong>
+subtitle:  <strong> W2 Interim Professor </strong> (Vertretungsprofessur)
 
 profile:
   align: right
@@ -23,7 +23,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p><strong>Theoretical Quantum Physicist</strong> specialized in nanoscale light, sound, and matter interactions. I am currently serving as a <strong>W2 Interim Professor</strong> at the University of Konstanz, Germany.</p>
+<p><strong>Theoretical Quantum Physicist</strong> specialized in nanoscale light, sound, and matter interactions. I am currently serving as a <strong>W2 Interim Professor</strong> at the University of Konstanz, Germany. 
+
+In 2025, I will transition to a <strong>Ramón y Cajal Researcher (Tenure Track)</strong> at the Autonomous University of Madrid (UAM), where I will establish a new research group focused on <strong>Nonlinear Driven-Dissipative Phenomena</strong> and its ramifications into <strong>Topological and Quantum Many-Body Phenomena</strong>.</p>
 
 <p>I have had the opportunity to delve into both classical and quantum many-body systems. My journey in this field has been enriched by a strong foundation in <em>analytical skills</em> and <em>computational modeling</em>.</p>
 
