@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="text-align: right;">
+    <div style="text-align: right; margin-top: 10px; line-height: 1.5;">
       <p><strong>W2 Interim Professor</strong><br/>
          Dept. of Physics,</p>
-          <p>Univ. of Konstanz, P702</p>
+      <p>Univ. of Konstanz, P702</p>
       <p>Universitätsstr. 10<br/>
          Konstanz, Germany</p>
     </div>
