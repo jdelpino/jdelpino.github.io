@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  <strong> W2 Interim Professor </strong> (Vertretungsprofessur)
+subtitle:  <strong> R
 
 profile:
   align: right
@@ -39,3 +39,5 @@ social: true  # includes social icons at the bottom of the page
 <p>Earlier, the <strong>ETH Postdoctoral Fellowship</strong> supported my research and collaborations with experimental teams.</p>
 
 <p>During my postdoc at AMOLF (Photonic Forces group), I explored topological and nano-optomechanical networks. My Ph.D. at UAM focused on strong coupling between light and organic molecules.</p>
+
+<h2 id="publications">Selected Publications</h2>
