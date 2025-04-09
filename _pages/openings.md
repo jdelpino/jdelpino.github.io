@@ -7,7 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-### PhD Opportunity: Time-Dependent Quantum Systems and Nonreciprocal Phenomena
+### PhD Opening: Nonlinear Quantum Dynamics in Driven-Dissipative Systems 
+
 
 ---
 
