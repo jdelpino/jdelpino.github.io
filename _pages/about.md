@@ -10,13 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: right; margin-top: 30px; line-height: 1.5;">
-      <p><strong>Current address (until mid-2025):</strong><br/>
-         Dept. of Physics,</p>
-      <p>Univ. of Konstanz, P702</p>
-      <p>Universitätsstr. 10<br/>
-         Konstanz, Germany</p>
-
       <p><strong>Transitioning to:</strong><br/>
+         Condensed Matter Physics Center (IFIMAC),<br/>
          Dept. of Theoretical Condensed Matter Physics,<br/>
          Universidad Autónoma de Madrid<br/>
          Madrid, Spain</p>
