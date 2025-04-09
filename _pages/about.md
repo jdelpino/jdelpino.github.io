@@ -10,11 +10,16 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: right; margin-top: 30px; line-height: 1.5;">
-      <p><strong>Address:</strong><br/>
+      <p><strong>Current address (until mid-2025):</strong><br/>
          Dept. of Physics,</p>
       <p>Univ. of Konstanz, P702</p>
       <p>Universitätsstr. 10<br/>
          Konstanz, Germany</p>
+
+      <p><strong>Transitioning to:</strong><br/>
+         Dept. of Theoretical Condensed Matter Physics,<br/>
+         Universidad Autónoma de Madrid<br/>
+         Madrid, Spain</p>
     </div>
 
 news: false  # includes a list of news items
@@ -23,12 +28,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p><strong>Theoretical Quantum Physicist</strong> specialized in nanoscale light, sound, and matter interactions. I am currently serving as a <strong>W2 Interim Professor</strong> at the University of Konstanz, Germany. 
+<p><strong>Theoretical Quantum Physicist</strong> specialized in Quantum Engineering with driven-dissipative light-matter and mechanical systems.</p>
 
-In 2025, I will transition to a <strong>Ramón y Cajal Researcher (Tenure Track)</strong> at the Autonomous University of Madrid (UAM), where I will establish a new research group focused on <strong>Nonlinear Driven-Dissipative Phenomena</strong> and its ramifications into <strong>Topological and Quantum Many-Body Phenomena</strong>.</p>
+<p>I am starting as a <strong>Ramón y Cajal Researcher (Tenure Track)</strong> at the Condensed Matter Physics Center (IFIMAC) of the Autonomous University of Madrid (UAM), where I lead a new group focused on <strong>time-dependent nonlinear systems</strong> and their relevance to <strong>topological and quantum many-body phenomena</strong>.</p>
 
-<p>I have had the opportunity to delve into both classical and quantum many-body systems. My journey in this field has been enriched by a strong foundation in <em>analytical skills</em> and <em>computational modeling</em>.</p>
+<p>I typically develop analytical and numerical methodologies to address problems in classical and quantum many-body physics (<a href="#publications">see Selected Publications</a> and <a href="https://jdelpino.github.io/repositories/" target="_blank">Repositories</a> for details).</p>
 
-<p>I am grateful for the learning experiences provided by the <strong>ETH Postdoctoral Fellowship</strong>, which supported some of my work and fostered valuable collaborations with experimental teams.</p>
+<p>Between 2023 and 2025, I served as a <strong>W2 Interim Professor</strong> at the University of Konstanz, Germany.</p>
 
-<p>My postdoctoral stint at the <em>Photonic Forces experimental group</em> at AMOLF, Amsterdam, allowed me to explore new realms in topological and nano-optomechanical networks. My Ph.D. research at UAM, Madrid, focused on studying strong coupling between light and organic molecules.</p>
+<p>Earlier, the <strong>ETH Postdoctoral Fellowship</strong> supported my research and collaborations with experimental teams.</p>
+
+<p>During my postdoc at AMOLF (Photonic Forces group), I explored topological and nano-optomechanical networks. My Ph.D. at UAM focused on strong coupling between light and organic molecules.</p>
