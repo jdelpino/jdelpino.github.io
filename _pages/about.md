@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p>I am starting as a <strong>Ramón y Cajal Researcher (Tenure Track)</strong> at the Condensed Matter Physics Center (IFIMAC), Universidad Autónoma de Madrid (UAM). I lead a new group in Quantum Engineering with driven-dissipative light-matter and mechanical systems. We focus on <strong>time-dependent nonlinear resonators</strong> and their role in <strong>topological and quantum many-body phenomena</strong>.</p>
 
-<p>Part of my work involves developing semi-analytical and numerical tools for classical and quantum many-body physics. (see Selected Publications, below, </a> and <a href="https://jdelpino.github.io/repositories/" target="_blank">Repositories</a> for details).</p>
+<p>Part of my work involves developing semi-analytical and numerical tools for classical and quantum many-body physics. (see Selected Publications, below, and <a href="https://jdelpino.github.io/repositories/" target="_blank">Repositories</a> for details).</p>
 
 <p>Between 2023 and 2025, I served as a <strong>W2 Interim Professor</strong> at the University of Konstanz, Germany.</p>
 
