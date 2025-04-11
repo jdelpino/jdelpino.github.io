@@ -1,7 +1,7 @@
 FROM ubuntu:latest
 ENV DEBIAN_FRONTEND noninteractive
 
-Label MAINTAINER Amir Pourmand
+LABEL MAINTAINER Amir Pourmand
 
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
     locales \
@@ -32,7 +32,7 @@ ADD Gemfile /srv/jekyll
 
 WORKDIR /srv/jekyll
 
-RUN bundle install --no-cache
+# RUN bundle install --no-cache || cat /root/.bundle/config
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 
