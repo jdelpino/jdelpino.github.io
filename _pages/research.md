@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description: Current research directions and recent work.  
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 
