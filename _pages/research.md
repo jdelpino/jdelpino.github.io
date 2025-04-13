@@ -43,6 +43,7 @@ This physics has been demonstrated and explored in several recent works:
 ---
 
 **_Can we map and predict complex dynamical phases beyond the linear regime?_**  
+
 **_What kinds of topology emerge in systems with nonlinearity and strong driving?_**
 
 ---
@@ -53,7 +54,7 @@ Understanding these phenomena requires more than linear theory. Instead of focus
 
 To tackle these challenges, we use methods that operate in the **frequency domain**. One of them is **harmonic balance**, which finds steady or periodic responses without simulating in time from many initial conditions. It also captures **limit cycles**—self-sustained oscillations that spontaneously break **time-translation symmetry**. These states are robust yet hard to predict, as their number and nature are often unknown. Our work develops tools to uncover and analyze them. For more information and tools related to **Harmonic Balance**, see: [https://jdelpino.github.io/repositories/](https://jdelpino.github.io/repositories/)
 
-These ideas are not just theoretical. Our methods provide a foundation for exploring applications in **neuromorphic computing**, where networks of nonlinear oscillators can simulate models like Ising or Boltzmann machines. They also shed light on the formation of **frequency combs** in nanomechanical systems—regular trains of vibrations with rich structure. More broadly, this approach opens new paths to understand how **topology shapes nonlinear dynamics**, revealing robust patterns like **topological solitons**, and suggesting future uses in areas such as **error correction** and **quantum information processing**.
+These ideas are not just theoretical. Our methods provide a foundation for exploring applications in **neuromorphic computing**, where networks of nonlinear oscillators can simulate models like Ising or Boltzmann machines. They also shed light on the formation of **frequency combs** in nanomechanical systems—regular trains of vibrations with rich structure. More broadly, this approach opens new paths to understand how **topology shapes nonlinear dynamics**, revealing robust patterns like topological solitons, and suggesting future uses in areas such as quantum error correction.
 
 This research has been presented and applied in the following works:
 
