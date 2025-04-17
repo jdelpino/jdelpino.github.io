@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Javier del Pino",
-    "label": "Theoretical Physicist",
+    "current position": "Ramón y Cajal Researcher (Tenure Track) @ Condensed Matter Physics Center (IFIMAC), Madrid",
     "image": "",
     "email": "delpino.jv@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "Theoretical physicist with expertise classical and quantum many-body systems.",
+    "summary": "",
     "location": {
-      "address": "Room P702 Universitätsstraße 10",
-      "postalCode": "78464",
-      "city": "Konstanz",
-      "countryCode": "DE",
-      "region": "Baden-Württemberg"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
@@ -23,12 +23,6 @@
     ]
   },
   "work": [
-    {
-      "name": "Condensed Matter Physics Center (IFIMAC), Universidad Autónoma de Madrid (UAM)",
-      "position": "Ramón y Cajal Researcher (Tenure Track)",
-      "startDate": "May. 25",
-      "endDate": "Current"
-    },
     {
       "name": "Department of Physics, University of Konstanz",
       "url": "https://www.zilberberg.uni-konstanz.de/home/index.php?id=group",
