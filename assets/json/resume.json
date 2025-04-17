@@ -81,8 +81,8 @@
       "url": "",
       "area": "Fundamental Physics",
       "studyType": "M.Sc.",
-      "startDate": "Jan. 12",
-      "endDate": "Dec. 13",
+      "startDate": "'12",
+      "endDate": "'13",
       "score": "EQF level 7",
       "courses": []
     },
@@ -90,9 +90,9 @@
       "institution": "Universidad Autónoma de Madrid, Madrid, Spain",
       "url": "https://www.uam.es/",
       "area": "Physics",
-      "studyType": "B.Sc.",
-      "startDate": "Jan. 07",
-      "endDate": "Dec. 12",
+      "studyType": "B.Sc. (5 yr.)",
+      "startDate": "'07",
+      "endDate": "'12",
       "score": "EQF level 7",
       "courses": []
     }
