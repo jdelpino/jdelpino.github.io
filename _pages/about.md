@@ -13,8 +13,7 @@ profile:
       <p>Office 603, Módulo 5, Facultad de Ciencias,<br/>
          Condensed Matter Physics Center (IFIMAC),<br/>
          Universidad Autónoma de Madrid,<br/>
-         Cantoblanco 28049 Madrid,<br/>
-         Spain</p>
+         Cantoblanco 28049 Madrid, Spain</p>
     </div>
 
 news: false  # includes a list of news items
