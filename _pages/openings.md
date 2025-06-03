@@ -7,11 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-### Open Positions
 
-At the moment, there are no positions available.  Stay tuned for future possibilities.
+**No positions are currently available.**  
+Future openings will be posted here, on [LinkedIn](https://www.linkedin.com/in/javier-del-pino) and the [CUÁNTICA job market](https://www.cuantica2025.es/job-market/).  
+Stay tuned for future oportunities.
 
 <!--
+
+### Open Positions
 
 ### PhD Opening: Nonlinear Quantum Dynamics in Driven-Dissipative Systems 
 
