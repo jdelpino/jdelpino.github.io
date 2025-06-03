@@ -9,7 +9,7 @@ nav_order: 6
 
 
 **No positions are currently available.**  
-Future openings will be posted here, on [LinkedIn](https://www.linkedin.com/in/javier-del-pino) and the [CUÁNTICA job market](https://www.cuantica2025.es/job-market/).  
+Future openings will be posted here, on [LinkedIn](https://www.linkedin.com/in/del-pino-javier/) and the [CUÁNTICA job market](https://www.cuantica2025.es/job-market/).  
 Stay tuned for future oportunities.
 
 <!--
