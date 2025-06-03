@@ -7,7 +7,15 @@ nav: true
 nav_order: 6
 ---
 
+### Open Positions
+
+At the moment, there are no positions available.  Stay tuned for future possibilities.
+
+<!--
+
 ### PhD Opening: Nonlinear Quantum Dynamics in Driven-Dissipative Systems 
+
+...
 
 
 ---
@@ -87,3 +95,5 @@ Please send the following documents (in a single PDF) to [delpino.jv@gmail.com](
 - Use **Subject: PhD Application – [Your Name]** as the email title
 
 > Applications not aligned with the described profile will not be considered
+
+-->
