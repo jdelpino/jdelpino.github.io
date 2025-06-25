@@ -30,4 +30,4 @@ social: true  # includes social icons at the bottom of the page
 
 <p>Earlier, I was an <strong>ETH Postdoctoral Fellow</strong>, working closely with experimental groups at ETH Zürich, Switzerland. Before that, I explored theory and experiments in topological nano-optomechanical systems at AMOLF in Amsterdam. My Ph.D. at UAM focused on cavity QED with organic molecules. More details are available on the <a href="https://jdelpino.github.io/cv/" target="_blank">CV page</a>.</p>
 
-<p>At the moment, there is a PhD position opening in my group — check <a href="https://jdelpino.github.io/openings/" target="_blank">this page</a> for further information.</p>
+<!--<p>At the moment, there is a PhD position opening in my group — check <a href="https://jdelpino.github.io/openings/" target="_blank">this page</a> for further information.</p>-->
