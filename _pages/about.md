@@ -22,14 +22,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>I am a <strong>Ramón y Cajal Researcher (Tenure Track)</strong> at the Condensed Matter Physics Center (IFIMAC), Universidad Autónoma de Madrid (UAM). I lead a new group in Quantum Engineering with driven-dissipative light-matter and mechanical systems. We focus on <strong>time-dependent nonlinear resonators</strong> and their role in <strong>topological and quantum many-body phenomena</strong>.</p>
+<p>We are a newly established theory group in Quantum Engineering at the Condensed Matter Physics Center (IFIMAC), Universidad Autónoma de Madrid (UAM) [<a href="https://jdelpino.github.io/people/" target="_blank">People overview</a>].</p>
 
-<p>Part of my work involves developing semi-analytical and numerical tools for classical and quantum many-body physics. (see Selected Publications, below, and <a href="https://jdelpino.github.io/repositories/" target="_blank">Repositories</a> for details).</p>
+Our research focuses on driven dissipative systems, such as periodically-modulated nonlinear resonators and light matter platforms where collective, interacting topological phenomena emerge.</p> 
 
-<p>Between 2023 and 2025, I served as a <strong>W2 Interim Professor</strong> at the University of Konstanz, Germany.</p>
+<p>We combine analytical insight with numerics to study how nonlinearity, gain, loss, and driving reshape dynamics far from equilibrium, connecting nonlinear dynamics with quantum many body physics. We work with models and questions that map directly onto real experimental platforms.
 
-<p>Earlier, I was an <strong>ETH Postdoctoral Fellow</strong>, working closely with experimental groups at ETH Zürich, Switzerland. Before that, I explored theory and experiments in topological nano-optomechanical systems at AMOLF in Amsterdam. My Ph.D. at UAM focused on cavity QED with organic molecules. 
+ See Selected Publications, below, and <a href="https://jdelpino.github.io/repositories/" target="_blank">Repositories</a> for details</p> <p>
 
-More details are available on the <a href="https://jdelpino.github.io/people/" target="_blank">People overview</a>.</p>
 
-At the moment, there is a PhD position opening in my group — check <a href="https://jdelpino.github.io/openings/" target="_blank">this page</a> for further information.
+<p><strong>About me.</strong> I am a Ramón y Cajal Researcher (tenure track) at IFIMAC, UAM. Previously, I was W2 Interim Professor at the University of Konstanz (2023 to 2025), and earlier an ETH Postdoctoral Fellow working closely with experimental groups at ETH Zürich and AMOLF in Amsterdam. I obtained my PhD at UAM on cavity QED with organic molecules.</p>
+
+<p>A PhD position is currently open. Details are on the <a href="https://jdelpino.github.io/openings/" target="_blank">Openings page</a>.</p>
