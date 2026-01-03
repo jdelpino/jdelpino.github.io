@@ -8,11 +8,10 @@ nav_order: 6
 ---
 
 
-**No positions are currently available.**  
+<!--**No positions are currently available.**  
 Future openings will be posted here, on [LinkedIn](https://www.linkedin.com/in/del-pino-javier/) and the [CUÁNTICA job market](https://www.cuantica2025.es/job-market/).  
-Stay tuned for future oportunities.
+Stay tuned for future oportunities.-->
 
-<!--
 
 ### Open Positions
 
@@ -36,7 +35,7 @@ Time-dependent quantum systems are opening new frontiers in the design of quantu
 
 One powerful phenomenon that can be engineered in this context is **nonreciprocity**, where energy propagates preferentially in one direction (see [arXiv:2110.14710](https://arxiv.org/abs/2110.14710) or [arXiv:2207.08523v2](https://arxiv.org/abs/2207.08523)). This directional behavior is key for emerging **artificial materials** and **quantum devices** such as isolators or amplifiers. A prevalent feature in these systems is **nonlinearity**, which enriches their dynamics by introducing interactions and enabling a broad range of collective phenomena. This raises deep questions at the interface of **quantum optics**, **condensed matter**, and **nonequilibrium physics**.
 
-I am starting a new research group in 2025, funded by a **Ramón y Cajal fellowship**, and I am looking for a PhD student to join me in exploring these ideas.
+I started a new research group in 2025, funded by a **Ramón y Cajal fellowship**, and I am looking for a PhD student to join me in exploring these ideas.
 
 ---
 
@@ -46,9 +45,9 @@ The project will focus on **time-dependent nonlinear quantum systems**. Suited f
 You will contribute to research efforts that may include:
 
 - Driven-dissipative many-body dynamics. Discovery of stabilized states of matter (e.g. solitons, superradiant states, limit cycles...) and retrieval of their experimental signatures.
-- Development and use of tools based on **semianalytical and numerical methods**, such as harmonic balance ([arXiv:2202.00571](https://arxiv.org/abs/2202.00571), [HarmonicBalance.jl docs](https://juliapackages.com/p/harmonicbalance)) tensor network techniques ([arXiv:1804.04511](https://arxiv.org/abs/1804.04511), [arXiv:1807.00586](https://arxiv.org/abs/1807.00586)) and topological methods. 
+- Development and use of tools based on **semianalytical and numerical methods**, such as harmonic balance ([arXiv:2202.00571](https://arxiv.org/abs/2202.00571), [HarmonicBalance.jl docs](https://juliapackages.com/p/harmonicbalance)) tensor network techniques ([arXiv:1804.04511](https://arxiv.org/abs/1804.04511), [arXiv:1807.00586](https://arxiv.org/abs/1807.00586)) and topological methods [arXiv:2406.16591](https://arxiv.org/abs/2406.16591). 
 - The exploration of symmetry-breaking mechanisms (e.g. artificial magnetic fields) to induce and control topological effects in light-matter and nanomechanical platforms.
- ([arXiv:2406.16591](https://arxiv.org/abs/2406.16591))
+ ([arXiv:2110.14710](https://arxiv.org/abs/2110.14710), [	arXiv:2207.08523](https://arxiv.org/abs/2207.08523))
  
  This is a **theoretical project**, but collaboration with experimental groups will be encouraged. Attendance to national/international schools and workshops will be supported.
 
@@ -81,9 +80,9 @@ IFIMAC offers:
 
 #### Practical Details
 
-- **Start date**: Fall 2025 (flexible)  
+- **Start date**: Before Fall 2026 (flexible)  
 - **Duration**: 3 years, with possible extension to 4  
-- **Application deadline**: **May 31st, 2025**
+- **Application deadline**: **February 29th, 2026**
 
 ---
 
@@ -99,4 +98,3 @@ Please send the following documents (in a single PDF) to [delpino.jv@gmail.com](
 
 > Applications not aligned with the described profile will not be considered
 
--->
