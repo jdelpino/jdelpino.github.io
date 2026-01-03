@@ -15,10 +15,7 @@ Stay tuned for future oportunities.-->
 
 ### Open Positions
 
-### PhD Opening: Nonlinear Quantum Dynamics in Driven-Dissipative Systems 
-
-...
-
+### PhD Opening: Nonlinear Driven-Dissipative Quantum Dynamics
 
 ---
 
