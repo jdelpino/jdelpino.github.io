@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  <strong> Theoretical Quantum Physicist – Ramón y Cajal Fellow (Tenure Track)
+subtitle:  
 
 profile:
   align: right
