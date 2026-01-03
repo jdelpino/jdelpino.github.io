@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Javier
-middle_name: 
-last_name: del Pino
+middle_name: del Pino's
+last_name: Group
 email: delpino.jv@gmail.com
 description: >  # the ">" symbol means to ignore newlines until "footer_text:"
             Theoretical Physicist | Personal Web page
@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Preferably contact me via email.
+  Preferably, contact me via email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -271,8 +271,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [del Pino]
+  first_name: [Javier]
 
   style: apa
   locale: en
