@@ -31,6 +31,14 @@ nav_order: 3
           <a class="btn btn-sm btn-outline-secondary" href="{{ '/cv/' | relative_url }}">CV page</a>
           <a class="btn btn-sm btn-outline-secondary" href="{{ '/assets/pdf/CV_JdP.pdf' | relative_url }}">CV (PDF)</a>
         </div>
+
+        <p class="card-text mt-3 mb-0">
+          <small>
+            Office 603, Módulo 5<br/>
+            IFIMAC, Universidad Autónoma de Madrid<br/>
+            Cantoblanco, Madrid, Spain
+          </small>
+        </p>
       </div>
     </div>
   </div>
