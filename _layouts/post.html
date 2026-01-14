@@ -42,7 +42,7 @@ layout: default
 <article class="post-content">
   {% if page.toc and page.toc.beginning %}
   <div id="table-of-contents">
-    <!-- TOC disabled on GitHub Pages (unsupported {% toc %} tag) -->
+    <!-- TOC disabled on GitHub Pages -->
   </div>
   <hr>
   {% endif %}
@@ -50,6 +50,9 @@ layout: default
     {{ content }}
   </div>
 </article>
+
+
+
 
 
   {%- if page.related_publications != null and page.related_publications.size > 0 -%}
