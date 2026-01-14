@@ -37,7 +37,7 @@ nav: false
 - Topological quantum materials  
 - Nonlinear and out-of-equilibrium dynamics
 
-## Selected Publications
+## Selected Preprints/Publications
 - **Topological classification of driven–dissipative nonlinear systems**  
   *Alejandro S. Gómez, Javier del Pino*  
   arXiv:2512.11747 ([link](https://arxiv.org/abs/2512.11747))
