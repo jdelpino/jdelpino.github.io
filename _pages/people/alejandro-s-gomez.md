@@ -21,7 +21,7 @@ nav: false
 - **2024–2025** — M.Sc. in Condensed Matter Physics (UAM, Madrid). Master’s thesis on high-Chern-number magnetic topological insulators coupled to superconductivity.
 - **2019–2024** — Double B.Sc. in Physics & Mathematics (UCM, Madrid)
 - **2023–2024** — Research internship (IEM/CSIC, Madrid): driven (Floquet) phenomena in monolayer transition-metal dichalcogenides under short laser pulses *(link)*
-- **Summer 2023** — Research internship (DIPC, Donostia): semi-Dirac electronic structures in 3D materials and their response to external fields (link)
+- **Summer 2023** — Research internship (DIPC, Donostia): semi-Dirac electronic structures in 3D materials and their response to external fields *(link)*
 
 ## Research interests
 
