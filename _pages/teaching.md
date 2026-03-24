@@ -9,6 +9,13 @@ nav_order: 5
 
 Explore the materials for courses I have taught, delving into Quantum Oscillators, Quantum Optics and Computational Many-Body Physics. In my lectures, I prioritize active student engagement and practical application of theoretical concepts. Current and recent courses include:
 
+### Mechanics and Waves II (Mecánica y Ondas II)  
+**Universidad Autónoma de Madrid** · *Spring Semester 2025–26*  
+This core course covers core topics in **wave physics, nonlinear dynamics, and continuum mechanics** within the undergraduate Physics curriculum. It introduces students to:
+- Coupled oscillators, normal modes, and collective motion.  
+- Wave propagation in continuous media, elasticity, and the mechanics of deformable systems.
+- Nonlinear dynamics and related phenomena.  
+
 ### Modelling Quantum Hardware: Open Dynamics and Control  
 **University of Konstanz** · *Winter Semester 2024–25*
 This course focuses on the **principles and control of quantum hardware platforms** essential for advancing quantum technologies. Topics include:  

@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: I co-developed HarmonicBalance.jl is a Julia package for solving nonlinear differential equations using the method of harmonic balance.
+description: I co-develop HarmonicBalance.jl, a Julia package for solving nonlinear differential equations using the method of harmonic balance.
 nav: true
 nav_order: 3
 ---
@@ -31,7 +31,7 @@ To solve these autonomous equations and identify all possible steady-state solut
 
 - Simple interface to scan **phase diagrams** across multiple parameters.
 - Built-in tools for detecting and analyzing **Limit Cycles**.
-- Ongoing integration with **Quantum Algebra packages** for quantum systems in the mean field limit.
+- Integration with **Quantum Algebra packages** for quantum systems in the mean field limit.
 - Actively maintained with frequent feature updates.
 
 <p align="center">
