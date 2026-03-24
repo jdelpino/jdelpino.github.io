@@ -10,4 +10,3 @@ giscus_comments: true
 This sample project page was simplified after the bundled demo images were removed from the repository.
 
 It still demonstrates a project page with comments enabled, but it no longer references missing gallery assets.
-{% endraw %}

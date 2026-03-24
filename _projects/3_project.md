@@ -10,4 +10,3 @@ category: work
 This sample redirect project no longer carries broken demo image references.
 
 Use it as a minimal example for an external project link, or replace it with your own project metadata.
-{% endraw %}
