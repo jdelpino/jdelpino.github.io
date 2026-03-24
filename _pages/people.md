@@ -63,4 +63,24 @@ nav_order: 3
     </div>
   </div>
 
+  <!-- Emma -->
+  <div class="col-12 col-sm-6 col-lg-4">
+    <div class="card h-100 shadow-sm">
+      <a href="{{ '/people/emma-setzer/' | relative_url }}" style="text-decoration:none;">
+        <img
+          src="{{ 'assets/img/emma_pic.jpg' | relative_url }}"
+          class="card-img-top"
+          alt="Emma Setzer"
+          loading="lazy"
+        >
+      </a>
+      <div class="card-body">
+        <h5 class="card-title mb-1">
+          <a href="{{ '/people/emma-setzer/' | relative_url }}">Emma Setzer</a>
+        </h5>
+        <p class="card-text mb-0"><small>Master's student</small></p>
+      </div>
+    </div>
+  </div>
+
 </div>
