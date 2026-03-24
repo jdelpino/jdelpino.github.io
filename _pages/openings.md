@@ -8,12 +8,12 @@ nav_order: 6
 ---
 
 
-<!--**No positions are currently available.**  
-Future openings will be posted here, on [LinkedIn](https://www.linkedin.com/in/del-pino-javier/) and the [CUÁNTICA job market](https://www.cuantica2025.es/job-market/).  
-Stay tuned for future oportunities.-->
+**No positions are currently available.**  
+Future openings will be posted here, on [LinkedIn](https://www.linkedin.com/in/del-pino-javier/), on [IFIMAC](https://www.ifimac.uam.es/category/jobs-opportunities/) and the [CUÁNTICA job market](https://www.cuantica2025.es/job-market/).  
+Stay tuned for future oportunities.
 
 
-### Open Positions
+<!--### Open Positions
 
 ### PhD Opening: Nonlinear Driven-Dissipative Quantum Dynamics
 
@@ -93,5 +93,5 @@ Please send the following documents (in a single PDF) to [delpino.jv@gmail.com](
 - **Contact details** of one or two referees
 - Use **Subject: PhD Application – [Your Name]** as the email title
 
-> Applications not aligned with the described profile will not be considered
+> Applications not aligned with the described profile will not be considered-->
 
