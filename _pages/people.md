@@ -13,14 +13,6 @@ nav_order: 3
   <!-- Javier -->
   <div class="col-12 col-sm-6 col-lg-4">
     <div class="card h-100 shadow-sm">
-      <a href="{{ '/cv/' | relative_url }}" style="text-decoration:none;">
-        <img
-          src="{{ 'assets/img/prof_pic.jpg' | relative_url }}"
-          class="card-img-top"
-          alt="Javier del Pino"
-          loading="lazy"
-        >
-      </a>
       <div class="card-body">
         <h5 class="card-title mb-1 text-nowrap">
           <a href="{{ '/cv/' | relative_url }}">Javier del Pino</a>
