@@ -78,7 +78,7 @@ nav_order: 3
         <h5 class="card-title mb-1">
           <a href="{{ '/people/emma-setzer/' | relative_url }}">Emma Setzer</a>
         </h5>
-        <p class="card-text mb-0"><small>Master's student</small></p>
+        <p class="card-text mb-0"><small>Master's student (co-supervised with <a href="https://www.zilberberg.uni-konstanz.de/home/index.php?id=group&subid=Oded_Zilberberg">Oded Zilberberg</a>)</small>small></p>
       </div>
     </div>
   </div>
