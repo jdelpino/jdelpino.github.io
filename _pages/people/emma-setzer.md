@@ -21,7 +21,7 @@ nav: false
 
 ## Short CV
 
-- **2024-present** - Master's student at Universidad Autonoma de Madrid, carrying out her Master's thesis co-supervised with Prof. Oded Zilberberg
+- **2024-present** - Master's student at Universidad Autonoma de Madrid, carrying out her Master's thesis co-supervised with Prof. Oded Zilberberg (University of Konstanz)
 - **2023-2024** - Bachelor's thesis, University of Oxford
 - **2023** - Research Assistant, University of Konstanz
 

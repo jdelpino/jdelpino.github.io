@@ -38,6 +38,6 @@ nav: false
 - Nonlinear and out-of-equilibrium dynamics
 
 ## Selected Preprints/Publications
-- **Topological classification of driven–dissipative nonlinear systems**  
+- **Quantum Dynamical Signatures of Topological Flow Transitions in Limit Cycle Phases**  
   *Alejandro S. Gómez, Javier del Pino*  
-  arXiv:2512.11747 ([link](https://arxiv.org/abs/2512.11747))
+  Phys. Rev. Research 8, 023319 ([link](https://doi.org/10.1103/fblj-fthq))
