@@ -19,6 +19,7 @@ nav_order: 3
           class="card-img-top"
           alt="Javier del Pino"
           loading="lazy"
+          style="height: 320px; object-fit: cover;"
         >
       </a>
       <div class="card-body">
@@ -48,17 +49,19 @@ nav_order: 3
     <div class="card h-100 shadow-sm">
       <a href="{{ '/people/alejandro-s-gomez/' | relative_url }}" style="text-decoration:none;">
         <img
-          src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Z-_obTUAAAAJ&citpid=1"
+          src="{{ 'assets/img/FotoAlex.jpeg' | relative_url }}"
           class="card-img-top"
           alt="Alejandro S. Gómez"
           loading="lazy"
+          style="height: 320px; object-fit: cover;"
         >
       </a>
       <div class="card-body">
         <h5 class="card-title mb-1">
           <a href="{{ '/people/alejandro-s-gomez/' | relative_url }}">Alejandro S. Gómez</a>
         </h5>
-        <p class="card-text mb-0"><small>PhD student</small></p>
+        <p class="card-text mb-2"><small>PhD student</small></p>
+        <a href="mailto:alejandros.gomez@uam.es"><small>alejandros.gomez@uam.es</small></a>
       </div>
     </div>
   </div>
@@ -72,13 +75,16 @@ nav_order: 3
           class="card-img-top"
           alt="Emma Setzer"
           loading="lazy"
+          style="height: 320px; object-fit: cover;"
         >
       </a>
       <div class="card-body">
         <h5 class="card-title mb-1">
           <a href="{{ '/people/emma-setzer/' | relative_url }}">Emma Setzer</a>
         </h5>
-        <p class="card-text mb-0"><small>Master's student (co-supervised with <a href="https://www.zilberberg.uni-konstanz.de/home/index.php?id=group&subid=Oded_Zilberberg">Oded Zilberberg</a>)</small></p>
+        <p class="card-text mb-2"><small>Master's student</small></p>
+        <p class="card-text mb-2"><small>Co-supervised with <a href="https://www.zilberberg.uni-konstanz.de/home/index.php?id=group&subid=Oded_Zilberberg">Oded Zilberberg</a></small></p>
+        <a href="mailto:emma.setzer@uni-konstanz.de"><small>emma.setzer@uni-konstanz.de</small></a>
       </div>
     </div>
   </div>

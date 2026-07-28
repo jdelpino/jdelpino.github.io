@@ -3,33 +3,28 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: I co-develop HarmonicBalance.jl, a Julia package for solving nonlinear differential equations using the method of harmonic balance.
-nav: true
+nav: false
 nav_order: 3
 ---
 
 
-## GitHub Repositories
+## HarmonicBalance.jl
 
 I co-develop [HarmonicBalance.jl](https://github.com/QuantumEngineeredSystems/HarmonicBalance.jl) with [Orjan Ameye](https://www.linkedin.com/in/orjanameye/) and [Jan Košata](https://www.linkedin.com/in/jan-košata-58b77777/).
 
----
+HarmonicBalance.jl is a Julia package for studying nonlinear, periodically driven systems in the frequency domain. It combines harmonic balance with homotopy continuation to find steady states and periodic solutions without relying on repeated time evolution from different initial conditions.
 
-### HarmonicBalance.jl
-#### The Harmonic Balance Method
-The **Harmonic Balance Method** is a powerful analytical technique for determining the steady-state behavior of nonlinear, periodically driven systems.  **HarmonicBalance.jl** is a Julia package that implements this method efficiently and flexibly. By approximating the system’s response as a sum of harmonic components with slowly varying amplitudes, this method transforms the original nonlinear, non-autonomous system into an autonomous set of differential equations. This transformation is achieved through a generalized Van der Pol transformation, which remaps the **time-dependent system** into a rotating reference frame where the equations become **time-invariant**. 
+### Key features
 
-#### Solving via Homotopy Continuation
-To solve these autonomous equations and identify all possible steady-state solutions reliably, we employ the method of **Homotopy Continuation**. This numerical approach systematically deforms a simple system, for which solutions are known, into the complex target system, tracking solutions throughout the deformation process. This ensures that **all steady states** are found in a guaranteed manner, providing a comprehensive understanding of the system’s behavior.
+- Map phase diagrams across multiple parameters.
+- Find and analyse coexisting steady states and limit cycles.
+- Study stability and fluctuation dynamics.
+- Connect symbolic equations with numerical continuation tools.
 
-#### Key features
-
-- Simple interface to scan **phase diagrams** across multiple parameters.
-- Built-in tools for detecting and analyzing **Limit Cycles**.
-- Integration with **Quantum Algebra packages** for quantum systems in the mean field limit.
-- Actively maintained with frequent feature updates.
+[GitHub repository](https://github.com/QuantumEngineeredSystems/HarmonicBalance.jl) · [Documentation](https://quantumengineeredsystems.github.io/HarmonicBalance.jl/stable/) · [SciPost paper](https://doi.org/10.21468/SciPostPhysCodeb.6)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QuantumEngineeredSystems/HarmonicBalance.jl/refs/heads/master/logo.png" alt="HarmonicBalance.jl Logo" style="width:80%;">
 </p>
 
-> The package is open-source and open to contributions.
+> The package is open source and welcomes contributions.

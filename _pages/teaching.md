@@ -4,12 +4,12 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 I teach theoretical and computational physics, aiming to make students actively engage with the material through discussion, intuition-building, and hands-on work. My recent courses have covered quantum dynamics, quantum hardware, and computational methods for many-body systems.
 
-# Current and Recent Courses
+## Current and Recent Courses
 
 ### Mechanics and Waves II (Mecánica y Ondas II)
 **Universidad Autónoma de Madrid** · *Spring Semester 2025-26*
@@ -61,7 +61,7 @@ This course explores quantum oscillators as a model platform for quantum sensing
 - Numerical simulation of quantum dynamics
 - Computational tools such as QuTiP and QuantumOptics.jl
 
-The course followed a flipped-classroom format, with students working actively in class and using notebooks as part of the learning process. It bas 
+The course followed a flipped-classroom format, with students working actively in class and using notebooks as part of the learning process.
 
 ---
 

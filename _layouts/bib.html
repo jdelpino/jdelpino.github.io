@@ -45,7 +45,12 @@
         {%- for author in entry.author_array limit: author_array_limit -%}
           {%- assign author_is_self = false -%}
           {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
-          {%- if site.scholar.last_name contains author_last_name -%}
+          {%- if author.prefix -%}
+            {%- capture author_full_last_name -%}{{ author.prefix }} {{ author_last_name }}{%- endcapture -%}
+          {%- else -%}
+            {%- assign author_full_last_name = author_last_name -%}
+          {%- endif -%}
+          {%- if site.scholar.last_name contains author_full_last_name -%}
             {%- if site.scholar.first_name contains author.first -%}
               {%- assign author_is_self = true -%}
             {%- endif -%}
@@ -65,12 +70,12 @@
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
-            <em>{{author.first}} {{author.last}}</em>
+            <em>{{author.first}} {{author_full_last_name}}</em>
           {%- else -%}
             {%- if coauthor_url -%}
-              <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+              <a href="{{coauthor_url}}">{{author.first}} {{author_full_last_name}}</a>
             {%- else -%}
-              {{author.first}} {{author.last}}
+              {{author.first}} {{author_full_last_name}}
             {%- endif -%}
           {%- endif -%}
         {%- endfor -%}
@@ -83,7 +88,11 @@
           {%- endif -%}
           {%- assign more_authors_show = '' -%}
           {%- for author in entry.author_array offset: author_array_limit -%}
-            {%- assign more_authors_show = more_authors_show | append: author.first | append: " " | append: author.last -%}
+            {%- assign more_authors_show = more_authors_show | append: author.first | append: " " -%}
+            {%- if author.prefix -%}
+              {%- assign more_authors_show = more_authors_show | append: author.prefix | append: " " -%}
+            {%- endif -%}
+            {%- assign more_authors_show = more_authors_show | append: author.last -%}
             {%- unless forloop.last -%}
               {%- assign more_authors_show = more_authors_show | append: ", " -%}
             {%- endunless -%}
