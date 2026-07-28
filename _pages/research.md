@@ -61,12 +61,13 @@ This research has been presented and applied in the following works:
 
 - J. Košata †, **J. del Pino** †, T. L. Heugel, and O. Zilberberg – [[SciPost Codebases 6 (2022)]](https://scipost.org/codebases.6)  
 - G. Margiani, **J. del Pino**, T. L. Heugel, N. E. Bousse, S. Guerrero, T. W. Kenny, O. Zilberberg, D. Sabonis, and A. Eichler – [[Phys. Rev. Research 5, L012029 (2023)]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012029)  
-- **J. del Pino**, J. Košata, and O. Zilberberg – [[Phys. Rev. Research 6, 033180 (2024)]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033180)  
 - V. Borovik, P. Breiding, **J. del Pino**, M. Michałek, and O. Zilberberg – [[J. Math. Pures Appl. 182, 195–222 (2023)]](https://doi.org/10.1016/j.matpur.2023.03.002)  
-- G. Villa †, **J. del Pino** †, V. Dumont, G. Rastelli, M. Michałek, A. Eichler, and O. Zilberberg – [[Sci. Adv.11, eadt9311(2025)]](https://doi.org/10.1126/sciadv.adt9311)
-- M. Fu, O. Ameye, F. Yang, J. Košata, **J. del Pino**, O. Zilberberg, and E. Scheer – [[arXiv:2409.15138 (2024)]](https://arxiv.org/abs/2409.15138)  
-- L. Catalini, **J. del Pino**, S. S. Kumar, V. Dumont, G. Margiani, O. Zilberberg, and A. Eichler – [[arXiv:2408.15794 (2024)]](https://arxiv.org/abs/2408.15794)  
 - P. Álvarez, D. Pittilini, F. Miserocchi, S. Raamamurthy, G. Margiani, O. Ameye, **J. del Pino**, O. Zilberberg, and A. Eichler – [[Phys. Rev. Lett. 132, 207401 (2024)]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.207401)  
+- L. Catalini, **J. del Pino**, S. S. Kumar, V. Dumont, G. Margiani, O. Zilberberg, and A. Eichler – [[arXiv:2408.15794 (2024)]](https://arxiv.org/abs/2408.15794)
+- **J. del Pino**, J. Košata, and O. Zilberberg – [[Phys. Rev. Research 6, 033180 (2024)]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033180)
+- M. Fu, O. Ameye, F. Yang, J. Košata, **J. del Pino**, O. Zilberberg, and E. Scheer – [[arXiv:2409.15138 (2024)]](https://arxiv.org/abs/2409.15138)
+- G. Villa †, **J. del Pino** †, V. Dumont, G. Rastelli, M. Michałek, A. Eichler, and O. Zilberberg – [[Sci. Adv. 11, eadt9311 (2025)]](https://doi.org/10.1126/sciadv.adt9311)
+- A. S. Gómez and **J. del Pino** – [[Phys. Rev. Research 8, 023319 (2026)]](https://doi.org/10.1103/fblj-fthq)
 
 
 † Equal contribution

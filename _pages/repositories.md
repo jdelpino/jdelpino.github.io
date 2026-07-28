@@ -10,13 +10,7 @@ nav_order: 3
 
 ## GitHub Repositories
 
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.html repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+I co-develop [HarmonicBalance.jl](https://github.com/QuantumEngineeredSystems/HarmonicBalance.jl) with [Orjan Ameye](https://www.linkedin.com/in/orjanameye/) and [Jan Košata](https://www.linkedin.com/in/jan-košata-58b77777/).
 
 ---
 
