@@ -29,11 +29,9 @@ nav_order: 3
         <p class="card-text mb-2"><small>Group leader</small></p>
 
         <div class="d-flex flex-wrap gap-2 mb-2">
-          <a class="btn btn-sm btn-outline-secondary" href="{{ '/cv/' | relative_url }}">CV page</a>
           <a class="btn btn-sm btn-outline-secondary" href="{{ '/assets/pdf/CV_JdP.pdf' | relative_url }}">CV (PDF)</a>
+          {% include protected_email.html encoded="ai5kZWxwaW5vQHVhbS5lcw==" small=true button=true %}
         </div>
-
-        {% include protected_email.html encoded="ai5kZWxwaW5vQHVhbS5lcw==" small=true %}
 
         <p class="card-text mt-3 mb-0">
           <small>
@@ -65,8 +63,8 @@ nav_order: 3
         <p class="card-text mb-2"><small>PhD student</small></p>
         <div class="d-flex flex-wrap gap-2 mb-2">
           <a class="btn btn-sm btn-outline-secondary" href="{{ '/people/alejandro-s-gomez/' | relative_url }}">CV page</a>
+          {% include protected_email.html encoded="YWxlamFuZHJvcy5nb21lekB1YW0uZXM=" small=true button=true %}
         </div>
-        {% include protected_email.html encoded="YWxlamFuZHJvcy5nb21lekB1YW0uZXM=" small=true %}
         <p class="card-text mt-2 mb-0">
           <small>
             Office 402.3, Módulo 5<br/>
@@ -98,8 +96,8 @@ nav_order: 3
         <p class="card-text mb-2"><small>Co-supervised with <a href="https://www.uam.es/ciencias/facultad/departamentos/fisica-teorica-materia-condensada/pdi/bello-gamboa-miguel">Miguel Bello</a></small></p>
         <div class="d-flex flex-wrap gap-2 mb-2">
           <a class="btn btn-sm btn-outline-secondary" href="{{ '/people/bruno-perez/' | relative_url }}">CV page</a>
+          {% include protected_email.html encoded="YnJ1bm8ucGVyZXpAdWFtLmVz" small=true button=true %}
         </div>
-        {% include protected_email.html encoded="YnJ1bm8ucGVyZXpAdWFtLmVz" small=true %}
         <p class="card-text mt-2 mb-0">
           <small>
             Office 402.3, Módulo 5<br/>
@@ -131,8 +129,8 @@ nav_order: 3
         <p class="card-text mb-2"><small>Co-supervised with <a href="https://members.ifimac.uam.es/parroyohuidobro/people/">Paloma Arroyo</a></small></p>
         <div class="d-flex flex-wrap gap-2 mb-2">
           <a class="btn btn-sm btn-outline-secondary" href="{{ '/people/joel-martinez/' | relative_url }}">CV page</a>
+          {% include protected_email.html encoded="am9lbC5tYXJ0aW5lekB1YW0uZXM=" small=true button=true %}
         </div>
-        {% include protected_email.html encoded="am9lbC5tYXJ0aW5lekB1YW0uZXM=" small=true %}
         <p class="card-text mt-2 mb-0">
           <small>
             Office 402.3, Módulo 5<br/>
@@ -168,7 +166,9 @@ nav_order: 3
         </h5>
         <p class="card-text mb-2"><small>Master's student, 2025–2026</small></p>
         <p class="card-text mb-2"><small>Co-supervised with <a href="https://www.zilberberg.uni-konstanz.de/home/index.php?id=group&subid=Oded_Zilberberg">Oded Zilberberg</a></small></p>
-        {% include protected_email.html encoded="ZW1tYS5zZXR6ZXJAdW5pLWtvbnN0YW56LmRl" small=true %}
+        <div class="d-flex flex-wrap gap-2 mb-2">
+          {% include protected_email.html encoded="ZW1tYS5zZXR6ZXJAdW5pLWtvbnN0YW56LmRl" small=true button=true %}
+        </div>
       </div>
     </div>
   </div>

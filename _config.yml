@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Javier
 middle_name: del Pino's
 last_name: Group
-email: delpino.jv@gmail.com
+email: j.delpino@uam.es
 description: >  # the ">" symbol means to ignore newlines until "footer_text:"
             Quantum engineering theory group at IFIMAC, Universidad Autónoma de Madrid.
 footer_text: >
@@ -47,7 +47,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -72,7 +72,8 @@ twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: del-pino-javier # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: https://scholar.google.com/citations?user=h10_8QIAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: h10_8QIAAAAJ # your Google Scholar ID
+scholar_language: es
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID

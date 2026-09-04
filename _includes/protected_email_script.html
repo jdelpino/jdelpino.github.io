@@ -4,10 +4,16 @@
     var link = document.createElement('a');
     link.href = 'mailto:' + email;
 
+    if (placeholder.dataset.button) {
+      link.className = 'btn btn-sm btn-outline-secondary';
+    }
+
     if (placeholder.dataset.small) {
       var small = document.createElement('small');
-      small.textContent = email;
+      small.textContent = placeholder.dataset.button ? 'Email' : email;
       link.appendChild(small);
+    } else if (placeholder.dataset.button) {
+      link.textContent = 'Email';
     } else {
       link.textContent = email;
     }

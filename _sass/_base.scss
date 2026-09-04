@@ -661,10 +661,34 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      .preview {
+      > .row > .preview {
+        aspect-ratio: 1 / 1;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        background: var(--global-card-bg-color);
+      }
+
+      > .row > .preview figure,
+      > .row > .preview picture {
         width: 100%;
+        height: 100%;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      img.preview {
+        width: 100%;
+        height: auto;
+        max-height: 100%;
         min-width: 80px;
         max-width: 200px;
+        object-fit: contain;
+        object-position: center;
       }
 
       .abbr {
