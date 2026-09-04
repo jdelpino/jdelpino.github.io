@@ -22,7 +22,7 @@
       }
     ]
   },
-  "Previous positions": [
+  "work": [
     {
       "name": "Department of Physics, University of Konstanz",
       "url": "https://www.zilberberg.uni-konstanz.de/home/index.php?id=group",
@@ -31,7 +31,9 @@
       "endDate": "Mar. 25",
       "summary": "Taught courses in Theoretical Quantum Physics and Nonlinear Physics. Supervised PhD students",
       "highlights": [
-        "Quantum Oscillators", "Quantum Optics", "Nonlinear Physics"
+        "Quantum Oscillators",
+        "Quantum Optics",
+        "Nonlinear Physics"
       ]
     },
     {
@@ -97,8 +99,7 @@
       "courses": []
     }
   ],
-  "awards": [
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],

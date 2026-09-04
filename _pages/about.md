@@ -31,7 +31,10 @@ social: true  # includes social icons at the bottom of the page
 <div class="card my-4 shadow-sm">
   <div class="row g-0 align-items-center">
     <div class="col-sm-4 p-3 text-center">
-      <img src="{{ '/assets/img/publication_preview/HBjl.png' | relative_url }}" alt="HarmonicBalance.jl phase diagram" style="max-height: 120px; max-width: 100%; object-fit: contain;" loading="lazy">
+      <picture>
+        <source type="image/webp" srcset="{{ '/assets/img/publication_preview/HBjl-800.webp' | relative_url }}">
+        <img src="{{ '/assets/img/publication_preview/HBjl.png' | relative_url }}" alt="HarmonicBalance.jl phase diagram" style="max-height: 120px; max-width: 100%; object-fit: contain;" loading="lazy">
+      </picture>
     </div>
     <div class="col-sm-8">
       <div class="card-body">

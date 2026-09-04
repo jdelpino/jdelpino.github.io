@@ -11,10 +11,22 @@ nav_order: 1
 ## Nonlinear Dynamics and Non-Equilibrium Phases of Matter
 
 <div class="d-flex my-4" style="gap: 0.5rem; overflow: hidden;">
-  <img src="{{ '/assets/img/publication_preview/unstable_limit_cycles_barrier.png' | relative_url }}" alt="Flow topology and limit-cycle phases in a nonlinear driven system" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
-  <img src="{{ '/assets/img/publication_preview/flow_ms.png' | relative_url }}" alt="Topological classification of nonlinear flows" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
-  <img src="{{ '/assets/img/publication_preview/limitcycles.png' | relative_url }}" alt="Limit cycles found with harmonic balance" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
-  <img src="{{ '/assets/img/publication_preview/hourglass.png' | relative_url }}" alt="Slow and fast dynamical phase transitions" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/unstable_limit_cycles_barrier-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/unstable_limit_cycles_barrier.png' | relative_url }}" alt="Flow topology and limit-cycle phases in a nonlinear driven system" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/flow_ms-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/flow_ms.png' | relative_url }}" alt="Topological classification of nonlinear flows" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/limitcycles-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/limitcycles.png' | relative_url }}" alt="Limit cycles found with harmonic balance" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/hourglass-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/hourglass.png' | relative_url }}" alt="Slow and fast dynamical phase transitions" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
 </div>
 
 ---
@@ -41,7 +53,7 @@ This research has been presented and applied in the following works:
 - L. Catalini, **J. del Pino**, S. S. Kumar, V. Dumont, G. Margiani, O. Zilberberg, and A. Eichler – [[Phys. Rev. Research 7, 033058 (2025)]](https://doi.org/10.1103/y9gq-yjxy)
 - **J. del Pino**, J. Košata, and O. Zilberberg – [[Phys. Rev. Research 6, 033180 (2024)]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033180)
 - P. Álvarez, D. Pittilini, F. Miserocchi, S. Raamamurthy, G. Margiani, O. Ameye, **J. del Pino**, O. Zilberberg, and A. Eichler – [[Phys. Rev. Lett. 132, 207401 (2024)]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.207401)
-- V. Borovik, P. Breiding, **J. del Pino**, M. Michałek, and O. Zilberberg – [[J. Math. Pures Appl. 182, 195–222 (2024)]](https://doi.org/10.1016/j.matpur.2023.03.002)
+- V. Borovik, P. Breiding, **J. del Pino**, M. Michałek, and O. Zilberberg – [[J. Math. Pures Appl. 182, 195–222 (2024)]](https://doi.org/10.1016/j.matpur.2023.12.005)
 - G. Margiani, **J. del Pino**, T. L. Heugel, N. E. Bousse, S. Guerrero, T. W. Kenny, O. Zilberberg, D. Sabonis, and A. Eichler – [[Phys. Rev. Research 5, L012029 (2023)]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L012029)
 - J. Košata †, **J. del Pino** †, T. L. Heugel, and O. Zilberberg – [[SciPost Phys. Codebases 6 (2022)]](https://scipost.org/codebases.6)
 
@@ -53,7 +65,10 @@ This research has been presented and applied in the following works:
 <div class="card my-4 shadow-sm">
   <div class="row g-0 align-items-center">
     <div class="col-md-4 p-3 text-center">
-      <img src="{{ '/assets/img/publication_preview/HBjl.png' | relative_url }}" alt="HarmonicBalance.jl phase diagram" style="max-height: 145px; max-width: 100%; object-fit: contain;" loading="lazy">
+      <picture>
+        <source type="image/webp" srcset="{{ '/assets/img/publication_preview/HBjl-800.webp' | relative_url }}">
+        <img src="{{ '/assets/img/publication_preview/HBjl.png' | relative_url }}" alt="HarmonicBalance.jl phase diagram" style="max-height: 145px; max-width: 100%; object-fit: contain;" loading="lazy">
+      </picture>
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -71,9 +86,18 @@ This research has been presented and applied in the following works:
 ## Artificial Gauge Fields and Nonreciprocal Transport
 
 <div class="d-flex my-4" style="gap: 0.5rem; overflow: hidden;">
-  <img src="{{ '/assets/img/publication_preview/multiplaquette.png' | relative_url }}" alt="Programmable synthetic magnetism in a nano-optomechanical network" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
-  <img src="{{ '/assets/img/publication_preview/nanobeam.png' | relative_url }}" alt="Bosonic Kitaev chain in a nano-optomechanical network" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
-  <img src="{{ '/assets/img/publication_preview/particle_hole.png' | relative_url }}" alt="Non-Hermitian chiral phononics" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/multiplaquette-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/multiplaquette.png' | relative_url }}" alt="Programmable synthetic magnetism in a nano-optomechanical network" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/nanobeam-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/nanobeam.png' | relative_url }}" alt="Bosonic Kitaev chain in a nano-optomechanical network" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/particle_hole-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/particle_hole.png' | relative_url }}" alt="Non-Hermitian chiral phononics" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
 </div>
 
 ---
@@ -107,9 +131,18 @@ This physics has been demonstrated and explored in several recent works:
 ## Quantum Optics with Organic Molecules
 
 <div class="d-flex my-4" style="gap: 0.5rem; overflow: hidden;">
-  <img src="{{ '/assets/img/publication_preview/TRemission.png' | relative_url }}" alt="Polaritonic molecular clock" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
-  <img src="{{ '/assets/img/publication_preview/tensornetwork.png' | relative_url }}" alt="Tensor-network simulation of organic polaritons" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
-  <img src="{{ '/assets/img/publication_preview/NJPQT.png' | relative_url }}" alt="Collective vibrational strong coupling" style="flex: 1 1 0; min-width: 0; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/TRemission-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/TRemission.png' | relative_url }}" alt="Polaritonic molecular clock" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/tensornetwork-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/tensornetwork.png' | relative_url }}" alt="Tensor-network simulation of organic polaritons" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
+  <picture style="flex: 1 1 0; min-width: 0;">
+    <source type="image/webp" srcset="{{ '/assets/img/publication_preview/NJPQT-800.webp' | relative_url }}">
+    <img src="{{ '/assets/img/publication_preview/NJPQT.png' | relative_url }}" alt="Collective vibrational strong coupling" style="width: 100%; height: 155px; object-fit: contain; border-radius: 0.35rem;" loading="lazy">
+  </picture>
 </div>
 
 ---

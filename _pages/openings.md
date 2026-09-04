@@ -79,7 +79,7 @@ IFIMAC offers:
 
 - **Start date**: Before Fall 2026 (flexible)  
 - **Duration**: 3 years, with possible extension to 4  
-- **Application deadline**: **February 29th, 2026**
+- **Application deadline**: **February 28th, 2026**
 
 ---
 

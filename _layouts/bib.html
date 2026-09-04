@@ -6,14 +6,15 @@
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
-          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}" alt="{%- if entry.alt -%}{{ entry.alt }}{%- else -%}Figure from &ldquo;{{ entry.title | strip_html }}&rdquo;{%- endif -%}">
           {%- else -%}
             {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
+            {%- if entry.alt -%}{%- assign preview_alt = entry.alt -%}{%- else -%}{%- capture preview_alt -%}Figure from &ldquo;{{ entry.title | strip_html }}&rdquo;{%- endcapture -%}{%- endif -%}
             {% include figure.html
             path=entry_path
             class="preview z-depth-1 rounded"
             zoomable=false
-            alt=entry.preview -%}
+            alt=preview_alt -%}
           {%- endif -%}
         {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}

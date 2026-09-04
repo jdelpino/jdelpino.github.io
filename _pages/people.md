@@ -70,7 +70,7 @@ nav_order: 3
     <div class="card h-100 shadow-sm">
       <a href="{{ '/people/bruno-perez/' | relative_url }}" style="text-decoration:none;">
         <img
-          src="{{ 'assets/img/bruno_perez.png' | relative_url }}"
+          src="{{ 'assets/img/bruno_perez.jpg' | relative_url }}"
           class="card-img-top"
           alt="Bruno Pérez"
           loading="lazy"
@@ -97,7 +97,7 @@ nav_order: 3
     <div class="card h-100 shadow-sm">
       <a href="{{ '/people/joel-martinez/' | relative_url }}" style="text-decoration:none;">
         <img
-          src="{{ 'assets/img/joel_martinez.png' | relative_url }}"
+          src="{{ 'assets/img/joel_martinez.jpg' | relative_url }}"
           class="card-img-top"
           alt="Joel Martínez"
           loading="lazy"

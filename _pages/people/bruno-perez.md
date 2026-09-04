@@ -8,7 +8,7 @@ nav: false
 
 <p align="center">
   <img
-    src="/assets/img/bruno_perez.png"
+    src="/assets/img/bruno_perez.jpg"
     alt="Bruno Pérez"
     style="max-width: 260px; width: 60%; border-radius: 12px;"
     loading="lazy"

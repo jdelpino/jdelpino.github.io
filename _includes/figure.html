@@ -11,6 +11,16 @@
         srcset="{{ img_path | relative_url }}-{{ i }}.webp"
       />
     {% endfor -%}
+    {%- comment -%}
+      Viewports wider than the largest width above match none of the media
+      queries and would otherwise fall through to the full-size original.
+      This unconditional source keeps them on the webp variant.
+    {%- endcomment -%}
+    {%- assign widest = site.imagemagick.widths | sort | last -%}
+      <source
+        class="responsive-img-srcset"
+        srcset="{{ img_path | relative_url }}-{{ widest }}.webp"
+      />
     {% endif %}
 
     <!-- Fallback to the original file -->

@@ -8,7 +8,7 @@ nav: false
 
 <p align="center">
   <img
-    src="/assets/img/joel_martinez.png"
+    src="/assets/img/joel_martinez.jpg"
     alt="Joel Martínez"
     style="max-width: 260px; width: 60%; border-radius: 12px;"
     loading="lazy"
