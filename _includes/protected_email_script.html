@@ -1,0 +1,17 @@
+<script>
+  document.querySelectorAll('.protected-email').forEach(function (placeholder) {
+    var email = atob(placeholder.dataset.email);
+    var link = document.createElement('a');
+    link.href = 'mailto:' + email;
+
+    if (placeholder.dataset.small) {
+      var small = document.createElement('small');
+      small.textContent = email;
+      link.appendChild(small);
+    } else {
+      link.textContent = email;
+    }
+
+    placeholder.replaceWith(link);
+  });
+</script>

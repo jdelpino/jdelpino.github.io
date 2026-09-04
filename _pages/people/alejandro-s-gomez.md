@@ -16,8 +16,13 @@ nav: false
 </p>
 
 <p align="center">
-  <a href="mailto:alejandros.gomez@uam.es">alejandros.gomez@uam.es</a>
+  {% include protected_email.html encoded="YWxlamFuZHJvcy5nb21lekB1YW0uZXM=" %}<br>
+  Office 402.3, Módulo 5<br>
+  IFIMAC, Universidad Autónoma de Madrid<br>
+  Cantoblanco, Madrid, Spain
 </p>
+
+{% include protected_email_script.html %}
 
 
 

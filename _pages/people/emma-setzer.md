@@ -16,12 +16,14 @@ nav: false
 </p>
 
 <p align="center">
-  <a href="mailto:emma.setzer@uni-konstanz.de">emma.setzer@uni-konstanz.de</a>
+  {% include protected_email.html encoded="ZW1tYS5zZXR6ZXJAdW5pLWtvbnN0YW56LmRl" %}
 </p>
+
+{% include protected_email_script.html %}
 
 ## Short CV
 
-- **2024-present** - Master's student at Universidad Autonoma de Madrid, carrying out her Master's thesis co-supervised with Prof. Oded Zilberberg (University of Konstanz)
+- **2025–2026** - Master's student at Universidad Autonoma de Madrid, carrying out her Master's thesis co-supervised with Prof. Oded Zilberberg (University of Konstanz)
 - **2023-2024** - Bachelor's thesis, University of Oxford
 - **2023** - Research Assistant, University of Konstanz
 
