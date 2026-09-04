@@ -8,6 +8,7 @@ nav: true
 nav_order: 3
 ---
 
+<div class="people-page">
 <div class="row g-4">
 
   <!-- Javier -->
@@ -33,13 +34,7 @@ nav_order: 3
           {% include protected_email.html encoded="ai5kZWxwaW5vQHVhbS5lcw==" small=true button=true %}
         </div>
 
-        <p class="card-text mt-3 mb-0">
-          <small>
-            Office 603, Módulo 5<br/>
-            IFIMAC, Universidad Autónoma de Madrid<br/>
-            Cantoblanco, Madrid, Spain
-          </small>
-        </p>
+        <p class="card-text person-office"><small>Office 603 · Módulo 5</small></p>
       </div>
     </div>
   </div>
@@ -65,13 +60,7 @@ nav_order: 3
           <a class="btn btn-sm btn-outline-secondary" href="{{ '/people/alejandro-s-gomez/' | relative_url }}">CV page</a>
           {% include protected_email.html encoded="YWxlamFuZHJvcy5nb21lekB1YW0uZXM=" small=true button=true %}
         </div>
-        <p class="card-text mt-2 mb-0">
-          <small>
-            Office 402.3, Módulo 5<br/>
-            IFIMAC, Universidad Autónoma de Madrid<br/>
-            Cantoblanco, Madrid, Spain
-          </small>
-        </p>
+        <p class="card-text person-office"><small>Office 402.3 · Módulo 5</small></p>
       </div>
     </div>
   </div>
@@ -98,13 +87,7 @@ nav_order: 3
           <a class="btn btn-sm btn-outline-secondary" href="{{ '/people/bruno-perez/' | relative_url }}">CV page</a>
           {% include protected_email.html encoded="YnJ1bm8ucGVyZXpAdWFtLmVz" small=true button=true %}
         </div>
-        <p class="card-text mt-2 mb-0">
-          <small>
-            Office 402.3, Módulo 5<br/>
-            IFIMAC, Universidad Autónoma de Madrid<br/>
-            Cantoblanco, Madrid, Spain
-          </small>
-        </p>
+        <p class="card-text person-office"><small>Office 402.3 · Módulo 5</small></p>
       </div>
     </div>
   </div>
@@ -131,13 +114,7 @@ nav_order: 3
           <a class="btn btn-sm btn-outline-secondary" href="{{ '/people/joel-martinez/' | relative_url }}">CV page</a>
           {% include protected_email.html encoded="am9lbC5tYXJ0aW5lekB1YW0uZXM=" small=true button=true %}
         </div>
-        <p class="card-text mt-2 mb-0">
-          <small>
-            Office 402.3, Módulo 5<br/>
-            IFIMAC, Universidad Autónoma de Madrid<br/>
-            Cantoblanco, Madrid, Spain
-          </small>
-        </p>
+        <p class="card-text person-office"><small>Office 402.3 · Módulo 5</small></p>
       </div>
     </div>
   </div>
@@ -172,6 +149,8 @@ nav_order: 3
       </div>
     </div>
   </div>
+
+</div>
 
 </div>
 
