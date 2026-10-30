@@ -125,6 +125,27 @@ nav_order: 3
 
 <div class="row g-4">
 
+  <!-- Diego -->
+  <div class="col-12 col-sm-6 col-lg-3">
+    <div class="card h-100 shadow-sm">
+      <img
+        src="{{ 'assets/img/diego_visani.jpg' | relative_url }}"
+        class="card-img-top"
+        alt="Diego Visani"
+        loading="lazy"
+        style="height: 220px; object-fit: cover; object-position: center top;"
+      >
+      <div class="card-body">
+        <h5 class="card-title mb-1">Diego Visani</h5>
+        <p class="card-text mb-2"><small>PhD student, 2022–2026</small></p>
+        <p class="card-text mb-2"><small>Co-supervised with <a href="https://www.phys.ethz.ch/the-department/people/person-detail.alexander-eichler.html">Alexander Eichler</a> and <a href="https://www.phys.ethz.ch/the-department/people/person-detail.cdegen.html">Christian Degen</a></small></p>
+        <div class="d-flex flex-wrap gap-2 mb-2">
+          <a class="btn btn-sm btn-outline-secondary" href="https://www.linkedin.com/in/diego-visani/">LinkedIn</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- Emma -->
   <div class="col-12 col-sm-6 col-lg-3">
     <div class="card h-100 shadow-sm">
@@ -149,6 +170,7 @@ nav_order: 3
       </div>
     </div>
   </div>
+
 
 </div>
 
